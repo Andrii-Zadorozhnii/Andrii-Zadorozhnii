@@ -38,6 +38,15 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
+- 🔭 I am currently working as Chief Officer on a 300m merchant vessel. 
+- 🌱 I am currently studying Front-End Developer course at BeetRoot Academy. 
+- 💬 Ask me anything =)
+- 📫 How to contact me: email (zador746@gmail.com)
+
 
 ---
 
