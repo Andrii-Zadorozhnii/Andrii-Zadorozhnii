@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UCHNvcTbJfTsoUVkpjQZ1wkQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" alt=""/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" align="center" alt=""/>
 
