@@ -27,5 +27,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" align="center" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" align="center" alt=""/>
+</div>
+
 
