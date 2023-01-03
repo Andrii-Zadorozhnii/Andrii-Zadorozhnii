@@ -74,9 +74,8 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+
 
     
 
