@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- 🔭 I am currently working as Chief Officer on a 300m merchant vessel. 
-- 🌱 I am currently studying Front-End Developer course at Beetroot Academy. 
+- 🌱 I am currently studying Python by myself.
+- 😄 Completed a Front-End Developer course at Beetroot Academy. 
 - 💬 Ask me anything =)
 - 📫 How to contact me: email (zador746@gmail.com)
 
@@ -69,6 +69,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 </div>
 
 ---
