@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ---
-<a href="https://github.com/Andrii-Zadorozhnii/dz8">Dz2<a>
+<a href="https://github.com/Andrii-Zadorozhnii/dz8">CSS Dinner Shopping List<a>
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
