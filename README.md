@@ -49,11 +49,7 @@ Here are some ideas to get you started:
             <p><span style="font-weight: bold;">📫 Contact Me:</span> <a href="mailto:zador746@gmail.com" class="email">zador746@gmail.com</a></p>
         </div>
     </div>
-    
-- 🌱 I’m currently learning a  at <a href="https://beetrootacademy.com/">Beetroot Academy<a>.
-- 😄 Completed a <a href="https://beetrootacademy.com/courses/front-end">Front-End Developer course<a> at <a href="https://beetrootacademy.com/">Beetroot Academy<a>. 
-- 💬 Ask me anything =)
-- 📫 How to contact me: email (zador746@gmail.com)
+
 
 
     
