@@ -55,19 +55,24 @@ Here are some ideas to get you started:
 # My Projects
 
 ## 1. [Forms](https://andrii-zadorozhnii.github.io/dz16/)
-![Forms Preview](https://via.placeholder.com/600x300.png?text=Forms+Preview)
+![Forms Preview](https://ibb.co/TcMd3MC)
 
-## 2. [Documentation Page](https://github.com/Andrii-Zadorozhnii/dz14)
-![Documentation Page Preview](https://via.placeholder.com/600x300.png?text=Documentation+Page+Preview)
+## 2. [Documentation Page](https://andrii-zadorozhnii.github.io/dz14/)
+![Documentation Page Preview](https://ibb.co/z7TpWGn)
 
-## 3. [Photography Layout](https://github.com/Andrii-Zadorozhnii/dz12)
-![Photography Layout Preview](https://via.placeholder.com/600x300.png?text=Photography+Layout+Preview)
+## 3. [Photography Layout](https://andrii-zadorozhnii.github.io/dz12/)
+![Photography Layout Preview](https://ibb.co/dmTL620)
 
-## 4. [CSS Dinner Shopping List](https://github.com/Andrii-Zadorozhnii/dz8)
-![CSS Dinner Shopping List Preview](https://via.placeholder.com/600x300.png?text=CSS+Dinner+Shopping+List+Preview)
+## 4. [CSS Dinner Shopping List](https://andrii-zadorozhnii.github.io/dz8/)
+![CSS Dinner Shopping List Preview](https://ibb.co/z82Dvtg)
 
 ## 5. [Beetroot Academy Progress](https://github.com/Andrii-Zadorozhnii/Beetroot_Python)
-![Beetroot Academy Progress Preview]([https://via.placeholder.com/600x300.png?text=Beetroot+Academy+Progress+Preview](https://cdn.prod.website-files.com/6461fc4df620b3a3ab77916d/64ad18a88751c560bae1f985_beetroot.svg](https://xk.beetroot.academy/static/BA_link-image-6fc4866d66191ba4719dd56c67285b62.png))](https://xk.beetroot.academy/static/logo-c96c7c4d19444146e8b100d14e93d1ac.svg))
+![Beetroot Academy Progress Preview](https://ibb.co/64c6Z3J)
+
+## 6. [Draft Survey Calculator](https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project)
+![Draft Survey Calculator Preview](https://ibb.co/CskWD2v)
+![Draft Survey Calculator Preview](https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project/raw/main/vessel.png)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
