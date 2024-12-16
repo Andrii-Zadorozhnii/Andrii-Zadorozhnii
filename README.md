@@ -51,17 +51,32 @@ Here are some ideas to get you started:
     </div>
 
 
-
-    
--  
-
-
 ---
-<a href="https://andrii-zadorozhnii.github.io/dz16/">Froms<a>
-<a href="https://github.com/Andrii-Zadorozhnii/dz14">Documentation page<a>
-<a href="https://github.com/Andrii-Zadorozhnii/dz12">Photography layout<a>
-<a href="https://github.com/Andrii-Zadorozhnii/dz8">CSS Dinner Shopping List<a>
-<a href="https://github.com/Andrii-Zadorozhnii/Beetroot_Python">Beetroot Academy Progress<a>
+<div style="max-width: 800px; margin: 50px auto; background-color: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <h1 style="text-align: center; color: #333;">My Projects</h1>
+        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
+            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                <iframe src="https://andrii-zadorozhnii.github.io/dz16/" title="Forms" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
+                <a href="https://andrii-zadorozhnii.github.io/dz16/" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Forms</a>
+            </div>
+            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                <iframe src="https://github.com/Andrii-Zadorozhnii/dz14" title="Documentation Page" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
+                <a href="https://github.com/Andrii-Zadorozhnii/dz14" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Documentation Page</a>
+            </div>
+            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                <iframe src="https://github.com/Andrii-Zadorozhnii/dz12" title="Photography Layout" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
+                <a href="https://github.com/Andrii-Zadorozhnii/dz12" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Photography Layout</a>
+            </div>
+            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                <iframe src="https://github.com/Andrii-Zadorozhnii/dz8" title="CSS Dinner Shopping List" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
+                <a href="https://github.com/Andrii-Zadorozhnii/dz8" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">CSS Dinner Shopping List</a>
+            </div>
+            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                <iframe src="https://github.com/Andrii-Zadorozhnii/Beetroot_Python" title="Beetroot Academy Progress" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
+                <a href="https://github.com/Andrii-Zadorozhnii/Beetroot_Python" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Beetroot Academy Progress</a>
+            </div>
+        </div>
+    </div>
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
