@@ -52,31 +52,24 @@ Here are some ideas to get you started:
 
 
 ---
-<div style="max-width: 800px; margin: 50px auto; background-color: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <h1 style="text-align: center; color: #333;">My Projects</h1>
-        <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
-            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                <iframe src="https://andrii-zadorozhnii.github.io/dz16/" title="Forms" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
-                <a href="https://andrii-zadorozhnii.github.io/dz16/" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Forms</a>
-            </div>
-            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                <iframe src="https://github.com/Andrii-Zadorozhnii/dz14" title="Documentation Page" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
-                <a href="https://github.com/Andrii-Zadorozhnii/dz14" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Documentation Page</a>
-            </div>
-            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                <iframe src="https://github.com/Andrii-Zadorozhnii/dz12" title="Photography Layout" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
-                <a href="https://github.com/Andrii-Zadorozhnii/dz12" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Photography Layout</a>
-            </div>
-            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                <iframe src="https://github.com/Andrii-Zadorozhnii/dz8" title="CSS Dinner Shopping List" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
-                <a href="https://github.com/Andrii-Zadorozhnii/dz8" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">CSS Dinner Shopping List</a>
-            </div>
-            <div style="width: 48%; background-color: #f9f9f9; padding: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                <iframe src="https://github.com/Andrii-Zadorozhnii/Beetroot_Python" title="Beetroot Academy Progress" style="width: 100%; height: 200px; border: none; border-radius: 8px;"></iframe>
-                <a href="https://github.com/Andrii-Zadorozhnii/Beetroot_Python" target="_blank" style="display: block; margin-top: 10px; color: #007BFF; text-decoration: none;">Beetroot Academy Progress</a>
-            </div>
-        </div>
-    </div>
+# My Projects
+
+## 1. [Forms](https://andrii-zadorozhnii.github.io/dz16/)
+![Forms Preview](https://via.placeholder.com/600x300.png?text=Forms+Preview)
+
+## 2. [Documentation Page](https://github.com/Andrii-Zadorozhnii/dz14)
+![Documentation Page Preview](https://via.placeholder.com/600x300.png?text=Documentation+Page+Preview)
+
+## 3. [Photography Layout](https://github.com/Andrii-Zadorozhnii/dz12)
+![Photography Layout Preview](https://via.placeholder.com/600x300.png?text=Photography+Layout+Preview)
+
+## 4. [CSS Dinner Shopping List](https://github.com/Andrii-Zadorozhnii/dz8)
+![CSS Dinner Shopping List Preview](https://via.placeholder.com/600x300.png?text=CSS+Dinner+Shopping+List+Preview)
+
+## 5. [Beetroot Academy Progress](https://github.com/Andrii-Zadorozhnii/Beetroot_Python)
+![Beetroot Academy Progress Preview](https://via.placeholder.com/600x300.png?text=Beetroot+Academy+Progress+Preview)
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
