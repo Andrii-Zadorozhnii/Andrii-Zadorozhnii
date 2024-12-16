@@ -14,41 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        .container {
-            max-width: 600px;
-            margin: 50px auto;
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        .info {
-            font-size: 18px;
-            line-height: 1.6;
-        }
-        .info a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        .info a:hover {
-            text-decoration: underline;
-        }
-        .email {
-            font-weight: bold;
-        }
-    </style>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -75,22 +40,23 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-
-- 🌱 I’m currently learning a <a href="https://beetroot.academy/courses/online/python">Pythone Developer course<a> at <a href="https://beetrootacademy.com/">Beetroot Academy<a>.
+<div class="container">
+        <h1>My Learning Journey</h1>
+        <div class="info">
+            <p><span style="font-weight: bold;">🌱 Currently Learning:</span> <a href="https://beetroot.academy/courses/online/python">Pythone Developer course<a> at <a href="https://beetroot.academy" target="_blank">Beetroot Academy</a>.</p>
+            <p><span style="font-weight: bold;">😄 Previously Completed:</span> <a href="https://beetrootacademy.com/courses/front-end">Front-End Developer course<a> at <a href="https://beetrootacademy.com" target="_blank">Beetroot Academy</a>.</p>
+            <p><span style="font-weight: bold;">💬 Feel Free to Ask Me Anything!</span></p>
+            <p><span style="font-weight: bold;">📫 Contact Me:</span> <a href="mailto:zador746@gmail.com" class="email">zador746@gmail.com</a></p>
+        </div>
+    </div>
+    
+- 🌱 I’m currently learning a  at <a href="https://beetrootacademy.com/">Beetroot Academy<a>.
 - 😄 Completed a <a href="https://beetrootacademy.com/courses/front-end">Front-End Developer course<a> at <a href="https://beetrootacademy.com/">Beetroot Academy<a>. 
 - 💬 Ask me anything =)
 - 📫 How to contact me: email (zador746@gmail.com)
 
 
-    <div class="container">
-        <h1>My Learning Journey</h1>
-        <div class="info">
-            <p><span style="font-weight: bold;">🌱 Currently Learning:</span> Python Developer Course at <a href="https://beetroot.academy" target="_blank">Beetroot Academy</a>.</p>
-            <p><span style="font-weight: bold;">😄 Previously Completed:</span> Front-End Developer Course at <a href="https://beetrootacademy.com" target="_blank">Beetroot Academy</a>.</p>
-            <p><span style="font-weight: bold;">💬 Feel Free to Ask Me Anything!</span></p>
-            <p><span style="font-weight: bold;">📫 Contact Me:</span> <a href="mailto:zador746@gmail.com" class="email">zador746@gmail.com</a></p>
-        </div>
-    </div>
+    
 -  
 
 
