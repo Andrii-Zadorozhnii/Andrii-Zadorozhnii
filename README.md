@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Andrii-Zadorozhnii/dz14">Documentation page<a>
 <a href="https://github.com/Andrii-Zadorozhnii/dz12">Photography layout<a>
 <a href="https://github.com/Andrii-Zadorozhnii/dz8">CSS Dinner Shopping List<a>
+<a href="https://github.com/Andrii-Zadorozhnii/Beetroot_Python">Beetroot Academy Progress<a>
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
