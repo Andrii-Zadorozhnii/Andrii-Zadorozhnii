@@ -55,22 +55,22 @@ Here are some ideas to get you started:
 # My Projects
 
 ## 1. [Forms](https://andrii-zadorozhnii.github.io/dz16/)
-![Forms Preview](https://ibb.co/TcMd3MC)
+![Forms Preview](https://i.ibb.co/1ZGjWGS/2024-12-16-21-35-47.png)
 
 ## 2. [Documentation Page](https://andrii-zadorozhnii.github.io/dz14/)
-![Documentation Page Preview](https://ibb.co/z7TpWGn)
+![Documentation Page Preview](https://i.ibb.co/5ngmXBM/2024-12-16-21-34-54.png)
 
 ## 3. [Photography Layout](https://andrii-zadorozhnii.github.io/dz12/)
-![Photography Layout Preview](https://ibb.co/dmTL620)
+![Photography Layout Preview](https://i.ibb.co/km7908g/2024-12-16-21-33-36.png)
 
 ## 4. [CSS Dinner Shopping List](https://andrii-zadorozhnii.github.io/dz8/)
-![CSS Dinner Shopping List Preview](https://ibb.co/z82Dvtg)
+![CSS Dinner Shopping List Preview](https://i.ibb.co/M81Q0JH/2024-12-16-21-31-12.png)
 
 ## 5. [Beetroot Academy Progress](https://github.com/Andrii-Zadorozhnii/Beetroot_Python)
-![Beetroot Academy Progress Preview](https://ibb.co/64c6Z3J)
+![Beetroot Academy Progress Preview](https://i.ibb.co/Vv0XN7p/20191217100128-7d48ec3a22f547ac7a7be6707318b388.png)
 
 ## 6. [Draft Survey Calculator](https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project)
-![Draft Survey Calculator Preview](https://ibb.co/CskWD2v)
+![Draft Survey Calculator Preview](https://i.ibb.co/YTzbwZ8/2024-12-16-21-45-00.png)
 ![Draft Survey Calculator Preview](https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project/raw/main/vessel.png)
 
 
