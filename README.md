@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![CSS Dinner Shopping List Preview](https://via.placeholder.com/600x300.png?text=CSS+Dinner+Shopping+List+Preview)
 
 ## 5. [Beetroot Academy Progress](https://github.com/Andrii-Zadorozhnii/Beetroot_Python)
-![Beetroot Academy Progress Preview](https://via.placeholder.com/600x300.png?text=Beetroot+Academy+Progress+Preview](https://cdn.prod.website-files.com/6461fc4df620b3a3ab77916d/64ad18a88751c560bae1f985_beetroot.svg](https://xk.beetroot.academy/static/BA_link-image-6fc4866d66191ba4719dd56c67285b62.png)
+![Beetroot Academy Progress Preview](https://via.placeholder.com/600x300.png?text=Beetroot+Academy+Progress+Preview](https://cdn.prod.website-files.com/6461fc4df620b3a3ab77916d/64ad18a88751c560bae1f985_beetroot.svg](https://xk.beetroot.academy/static/BA_link-image-6fc4866d66191ba4719dd56c67285b62.png)))
 
 
 ### :hammer_and_wrench: Languages and Tools :
