@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andrii-Zadorozhnii)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-[![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
+
 
 ---
 
@@ -114,6 +114,8 @@ Here are some ideas to get you started:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andrii-Zadorozhnii)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
 
 
 
