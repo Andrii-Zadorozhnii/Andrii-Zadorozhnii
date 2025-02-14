@@ -1,4 +1,5 @@
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andrii-Zadorozhnii)](https://github.com/Andrii-Zadorozhnii/github-readme-activity-graph)
 
 <!--
 **Andrii-Zadorozhnii/Andrii-Zadorozhnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -114,7 +115,6 @@ Here are some ideas to get you started:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andrii-Zadorozhnii)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
 
 
