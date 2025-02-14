@@ -2,7 +2,7 @@
 
 <!--
 **Andrii-Zadorozhnii/Andrii-Zadorozhnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andrii-Zadorozhnii)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andrii-Zadorozhnii)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -111,9 +112,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
 
