@@ -1,6 +1,19 @@
 <!--
 **Andrii-Zadorozhnii/Andrii-Zadorozhnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+### :fire: My Stats :
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -35,28 +48,7 @@
 
 
 ---
-# My Projects
-
-## 1. [Forms](https://andrii-zadorozhnii.github.io/dz16/)
-![Forms Preview](https://i.ibb.co/1ZGjWGS/2024-12-16-21-35-47.png)
-
-## 2. [Documentation Page](https://andrii-zadorozhnii.github.io/dz14/)
-![Documentation Page Preview](https://i.ibb.co/5ngmXBM/2024-12-16-21-34-54.png)
-
-## 3. [Photography Layout](https://andrii-zadorozhnii.github.io/dz12/)
-![Photography Layout Preview](https://i.ibb.co/km7908g/2024-12-16-21-33-36.png)
-
-## 4. [CSS Dinner Shopping List](https://andrii-zadorozhnii.github.io/dz8/)
-![CSS Dinner Shopping List Preview](https://i.ibb.co/M81Q0JH/2024-12-16-21-31-12.png)
-
-## 5. [Beetroot Academy Progress](https://github.com/Andrii-Zadorozhnii/Beetroot_Python)
-![Beetroot Academy Progress Preview](https://i.ibb.co/Vv0XN7p/20191217100128-7d48ec3a22f547ac7a7be6707318b388.png)
-
-## 6. [Draft Survey Calculator](https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project)
-![Draft Survey Calculator Preview](https://i.ibb.co/YTzbwZ8/2024-12-16-21-45-00.png)
-![Draft Survey Calculator Preview](https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project/raw/main/vessel.png)
-
-# My Projects
+# My Front End Developer Projects
 
 Here are some of the projects I have worked on:
 
@@ -103,47 +95,6 @@ A Python project designed to calculate draft surveys for vessels. It helps in de
 
 ---
 
-## Projects Showcase
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="margin: 10px; width: 250px;">
-        <a href="https://andrii-zadorozhnii.github.io/dz16/">
-            <img src="https://i.ibb.co/1ZGjWGS/2024-12-16-21-35-47.png" alt="Forms Preview" style="width: 100%; height: auto;">
-        </a>
-        <p><a href="https://andrii-zadorozhnii.github.io/dz16/">Forms</a></p>
-    </div>
-    <div style="margin: 10px; width: 250px;">
-        <a href="https://andrii-zadorozhnii.github.io/dz14/">
-            <img src="https://i.ibb.co/5ngmXBM/2024-12-16-21-34-54.png" alt="Documentation Page Preview" style="width: 100%; height: auto;">
-        </a>
-        <p><a href="https://andrii-zadorozhnii.github.io/dz14/">Documentation Page</a></p>
-    </div>
-    <div style="margin: 10px; width: 250px;">
-        <a href="https://andrii-zadorozhnii.github.io/dz12/">
-            <img src="https://i.ibb.co/km7908g/2024-12-16-21-33-36.png" alt="Photography Layout Preview" style="width: 100%; height: auto;">
-        </a>
-        <p><a href="https://andrii-zadorozhnii.github.io/dz12/">Photography Layout</a></p>
-    </div>
-    <div style="margin: 10px; width: 250px;">
-        <a href="https://andrii-zadorozhnii.github.io/dz8/">
-            <img src="https://i.ibb.co/M81Q0JH/2024-12-16-21-31-12.png" alt="CSS Dinner Shopping List Preview" style="width: 100%; height: auto;">
-        </a>
-        <p><a href="https://andrii-zadorozhnii.github.io/dz8/">CSS Dinner Shopping List</a></p>
-    </div>
-    <div style="margin: 10px; width: 250px;">
-        <a href="https://github.com/Andrii-Zadorozhnii/Beetroot_Python">
-            <img src="https://i.ibb.co/Vv0XN7p/20191217100128-7d48ec3a22f547ac7a7be6707318b388.png" alt="Beetroot Academy Progress Preview" style="width: 100%; height: auto;">
-        </a>
-        <p><a href="https://github.com/Andrii-Zadorozhnii/Beetroot_Python">Beetroot Academy Progress</a></p>
-    </div>
-    <div style="margin: 10px; width: 250px;">
-        <a href="https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project">
-            <img src="https://i.ibb.co/YTzbwZ8/2024-12-16-21-45-00.png" alt="Draft Survey Calculator Preview" style="width: 100%; height: auto;">
-        </a>
-        <p><a href="https://github.com/Andrii-Zadorozhnii/Draft_Survey_Project">Draft Survey Calculator</a></p>
-    </div>
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -168,19 +119,7 @@ A Python project designed to calculate draft surveys for vessels. It helps in de
 
 ---
 
-### :fire: My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---Для подробной версии-->
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
 
 
 
