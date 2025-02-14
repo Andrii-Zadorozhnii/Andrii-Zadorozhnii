@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andrii-Zadorozhnii)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -102,13 +101,11 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-<div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)
-</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---Для подробной версии-->
