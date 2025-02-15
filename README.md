@@ -10,8 +10,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---Для подробной версии-->
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
 
