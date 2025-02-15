@@ -3,10 +3,10 @@
 -->
 ### :fire: My Stats :
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---Для подробной версии-->
