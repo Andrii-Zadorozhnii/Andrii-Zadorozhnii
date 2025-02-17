@@ -2,6 +2,10 @@
 
 ### :woman_technologist: About Me :
 <div class="container">
+        <h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
         <h1>My Learning Journey</h1>
         <div class="info">
             <p><span style="font-weight: bold;">🌱 Currently Learning:</span> <a href="https://beetroot.academy/courses/online/python">Pythone Developer course<a> at <a href="https://beetroot.academy" target="_blank">Beetroot Academy</a>.</p>
@@ -25,10 +29,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" align="center" alt=""/>
 </div>
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 
 
