@@ -13,7 +13,7 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrii-zadorozhnii-b77096259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-          <p>Являюсь начинающим разработчиком Front-End и Python. <br/>Прошел курсы Front-End и Python разработки в Beetroot Academy. <br/>Реализовал проекты, включая формы, страницы документации, фотогалереи и калькулятор осадки судна. <br/>Ищу возможности для применения полученных навыков в профессиональной среде. <br/>Ищу первую работу в IT. <br/>Опыт разработки небольших проектов на Python, Django, SQL. Понимаю REST API, Git, основы тестирования.
+          <p>Ищу первую работу в IT. <br/>Являюсь начинающим разработчиком Front-End и Python. <br/>Прошел курсы Front-End и Python разработки в Beetroot Academy. <br/>Реализовал проекты, включая формы, страницы документации, фотогалереи и калькулятор осадки судна. <br/>Ищу возможности для применения полученных навыков в профессиональной среде. <br/>Опыт разработки небольших проектов на Python, Django, SQL. Понимаю REST API, Git, основы тестирования.
 </p>
   </a>
 </div>
