@@ -13,6 +13,8 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrii-zadorozhnii-b77096259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          <p>Являюсь начинающим разработчиком Front-End и Python. Прошел курсы Front-End и Python разработки в Beetroot Academy. Реализовал проекты, включая формы, страницы документации, фотогалереи и калькулятор осадки судна. Ищу возможности для применения полученных навыков в профессиональной среде. Ищу первую работу в IT. Опыт разработки небольших проектов на Python, Django, SQL. Понимаю REST API, Git, основы тестирования.
+</p>
   </a>
 </div>
 <div align="center">
