@@ -6,18 +6,7 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-        <h1>My Learning Journey</h1>
-        <div class="info">
-            <p><span style="font-weight: bold;">🌱 Currently Learning:</span> <a href="https://beetroot.academy/courses/online/python">Pythone Developer course<a> at <a href="https://beetroot.academy" target="_blank">Beetroot Academy</a>.</p>
-            <p><span style="font-weight: bold;">😄 Previously Completed:</span> <a href="https://beetrootacademy.com/courses/front-end">Front-End Developer course<a> at <a href="https://beetrootacademy.com" target="_blank">Beetroot Academy</a>.</p>
-            <p><span style="font-weight: bold;">💬 Feel Free to Ask Me Anything!</span></p>
-            <p><span style="font-weight: bold;">📫 Contact Me:</span> <a href="mailto:zador746@gmail.com" class="email">zador746@gmail.com</a></p>
-        </div>
-    </div>
-
-
----
-<div id="header" align="center">
+        <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -29,6 +18,18 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" align="center" alt=""/>
 </div>
+        <h1>My Learning Journey</h1>
+        <div class="info">
+            <p><span style="font-weight: bold;">🌱 Currently Learning:</span> <a href="https://beetroot.academy/courses/online/python">Pythone Developer course<a> at <a href="https://beetroot.academy" target="_blank">Beetroot Academy</a>.</p>
+            <p><span style="font-weight: bold;">😄 Previously Completed:</span> <a href="https://beetrootacademy.com/courses/front-end">Front-End Developer course<a> at <a href="https://beetrootacademy.com" target="_blank">Beetroot Academy</a>.</p>
+            <p><span style="font-weight: bold;">💬 Feel Free to Ask Me Anything!</span></p>
+            <p><span style="font-weight: bold;">📫 Contact Me:</span> <a href="mailto:zador746@gmail.com" class="email">zador746@gmail.com</a></p>
+        </div>
+    </div>
+
+
+---
+
 
 
 
