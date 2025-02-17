@@ -1,27 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrii-zadorozhnii-b77096259/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" align="center" alt=""/>
-</div>
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 <!--
 **Andrii-Zadorozhnii/Andrii-Zadorozhnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### :fire: My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)-->
@@ -50,6 +35,22 @@
 
 
 ---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/andrii-zadorozhnii-b77096259/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andrii-Zadorozhnii&style=flat-square&color=blue" align="center" alt=""/>
+</div>
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 # My Front End Developer Projects
 
 Here are some of the projects I have worked on:
