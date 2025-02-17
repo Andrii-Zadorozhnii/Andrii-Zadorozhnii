@@ -1,27 +1,5 @@
 
 
-
-<!--
-**Andrii-Zadorozhnii/Andrii-Zadorozhnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### :fire: My Stats :
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---Для подробной версии-->
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
-
-[![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
-
-
-
----
-
 ### :woman_technologist: About Me :
 <div class="container">
         <h1>My Learning Journey</h1>
@@ -51,6 +29,29 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+
+<!--
+**Andrii-Zadorozhnii/Andrii-Zadorozhnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+### :fire: My Stats :
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
+
+
+
+---
 # My Front End Developer Projects
 
 Here are some of the projects I have worked on:
