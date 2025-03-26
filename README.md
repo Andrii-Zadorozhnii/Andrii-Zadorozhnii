@@ -66,7 +66,7 @@
 ## 1. [Cargo Delivery Service](https://github.com/Andrii-Zadorozhnii/Beetroot_Python/tree/main/00_Final_Project/cargo_project)
 
 # Cargo Delivery Service
-
+<a href="https://ibb.co/PvkDvJY7"><img src="https://i.ibb.co/gLY4LQ75/Screenshot-2025-03-26-at-14-48-54-2.png" alt="Screenshot-2025-03-26-at-14-48-54-2" border="0"></a>
 ## Описание проекта
 
 **Cargo Delivery Service** — это инновационное решение для автоматизации доставки грузов, которое интегрирует **Telegram-бота**, **Google Maps** и **Django-приложение** для удобного управления доставкой, отслеживания и взаимодействия с водителями и менеджерами.
@@ -87,7 +87,7 @@
 - **Взаимодействие с базой данных**: Через API бот записывает данные в базу PostgreSQL, обновляя статус заказа или перемещая его по этапам доставки.
 
 ### 2. Работа с базой данных (PostgreSQL)
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/V62581tH/Screenshot-2025-03-26-at-14-53-01-2.png' border='0' alt='Screenshot-2025-03-26-at-14-53-01-2'/></a>
+<a href="https://ibb.co/4wKShbgd"><img src="https://i.ibb.co/j9bwnCZR/Screenshot-2025-03-26-at-14-53-01-2.png" alt="Screenshot-2025-03-26-at-14-53-01-2" border="0"></a>
 
 **Хранение данных**: В базе данных хранятся записи о заказах, водителях, маршрутах, статусах доставки и истории взаимодействий.
 
@@ -123,7 +123,7 @@
 - **Уведомления водителям и менеджерам**: Водители и менеджеры получают уведомления через Telegram о новых заказах или изменениях в статусе доставки.
 
 ### 6. Процесс регистрации и управления
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HWJpCfBb/Screenshot-2025-03-26-at-14-43-59-2.png' border='0' alt='Screenshot-2025-03-26-at-14-43-59-2'/></a>
+<a href="https://ibb.co/JWksgdJq"><img src="https://i.ibb.co/HLgH328C/Screenshot-2025-03-26-at-14-43-59-2.png" alt="Screenshot-2025-03-26-at-14-43-59-2" border="0"></a>
 
 - **Регистрация пользователей**: Формы для регистрации клиентов и водителей с подтверждением через Telegram или email.
 - **Управление заказами**: Менеджеры создают заказы, присваивают их водителям, а затем отслеживают прогресс через веб-приложение, включая статус доставки на карте.
