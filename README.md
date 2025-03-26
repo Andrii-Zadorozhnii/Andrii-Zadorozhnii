@@ -63,7 +63,7 @@
 
 
 # My Python  Developer Projects
-## 1. [Cargo Delivery Service](https://github.com/Andrii-Zadorozhnii/Beetroot_Python/tree/main/00_Final_Project/cargo_project))
+## 1. [Cargo Delivery Service](https://github.com/Andrii-Zadorozhnii/Beetroot_Python/tree/main/00_Final_Project/cargo_project)
 
 # Cargo Delivery Service
 
