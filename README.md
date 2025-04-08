@@ -139,13 +139,6 @@
 **Cargo Delivery Service** объединяет несколько технологий (Telegram API, Django, PostgreSQL, Google Maps) для создания удобного и функционального сервиса доставки грузов. Этот сервис значительно упростит управление грузами, повысит эффективность работы с водителями и менеджерами, и будет развиваться с добавлением новых функций и улучшений.
 
 
-
-## 1. [Forms](https://andrii-zadorozhnii.github.io/dz16/)
-A project focused on creating various types of forms with responsive design. The implementation includes multiple input fields, buttons, and validation features.
-
-![Forms Preview](https://i.ibb.co/1ZGjWGS/2024-12-16-21-35-47.png)
-
----
 # My Front End Developer Projects
 
 Here are some of the projects I have worked on:
