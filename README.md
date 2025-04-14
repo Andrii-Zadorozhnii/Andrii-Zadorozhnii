@@ -138,7 +138,7 @@
 
 **Cargo Delivery Service** объединяет несколько технологий (Telegram API, Django, PostgreSQL, Google Maps) для создания удобного и функционального сервиса доставки грузов. Этот сервис значительно упростит управление грузами, повысит эффективность работы с водителями и менеджерами, и будет развиваться с добавлением новых функций и улучшений.
 
-## 1. [Тестове завдання на вакансію Juniour Python Developer](https://github.com/Andrii-Zadorozhnii/Test_app_1_JPD)
+## 2. [Тестове завдання на вакансію Juniour Python Developer](https://github.com/Andrii-Zadorozhnii/Test_app_1_JPD)
 
 # Тестове завдання на вакансію Juniour Python Developer
 
