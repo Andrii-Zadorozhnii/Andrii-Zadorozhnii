@@ -1,16 +1,3 @@
-<!-- HEADER SECTION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=ANDRII+ZADOROZHNII;PYTHON DEVELOPER;PYTHON%2FDJANGO+%7C+FRONTEND+%7C" alt="Typing SVG" />
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-  
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Andrii-Zadorozhnii.Andrii-Zadorozhnii&left_color=green&right_color=red)](https://github.com/Andrii-Zadorozhnii)
-  ![GitHub followers](https://img.shields.io/github/followers/Andrii-Zadorozhnii?style=social)
-</div>
-
----
-
-
 ### :woman_technologist: About Me :
 <div class="container">
         <h1 align="center">
