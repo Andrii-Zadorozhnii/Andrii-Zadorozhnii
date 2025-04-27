@@ -11,8 +11,7 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrii-zadorozhnii-b77096259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-          <p>Ищу первую работу в IT. <br/>Являюсь начинающим разработчиком Front-End и Python. <br/>Прошел курсы Front-End и Python разработки в Beetroot Academy. <br/>Реализовал проекты, включая формы, страницы документации, фотогалереи и калькулятор осадки судна. <br/>Ищу возможности для применения полученных навыков в профессиональной среде. <br/>Опыт разработки небольших проектов на Python, Django, SQL. Понимаю REST API, Git, основы тестирования.
-</p>
+          <p>Looking for my first job in IT. <br/>I am a beginner Front-End and Python developer. <br/>Completed Front-End and Python development courses at Beetroot Academy. <br/>Developed projects including forms, documentation pages, photo galleries, and a ship's draft calculator. <br/>Seeking opportunities to apply my skills in a professional environment. <br/>Experience with small Python, Django, and SQL projects. Understand REST API, Git, and testing basics.</p>
   </a>
 </div>
 <div align="center">
@@ -20,8 +19,8 @@
 </div>
         <h1>My Learning Journey</h1>
         <div class="info">
-            <p><span style="font-weight: bold;">🌱 Currently Learning:</span> <a href="https://beetroot.academy/courses/online/python">Pythone Developer course<a> at <a href="https://beetroot.academy" target="_blank">Beetroot Academy</a>.</p>
-            <p><span style="font-weight: bold;">😄 Previously Completed:</span> <a href="https://beetrootacademy.com/courses/front-end">Front-End Developer course<a> at <a href="https://beetrootacademy.com" target="_blank">Beetroot Academy</a>.</p>
+            <p><span style="font-weight: bold;">🌱 Currently Learning:</span> <a href="https://beetroot.academy/courses/online/python">Python Developer course</a> at <a href="https://beetroot.academy" target="_blank">Beetroot Academy</a>.</p>
+            <p><span style="font-weight: bold;">😄 Previously Completed:</span> <a href="https://beetrootacademy.com/courses/front-end">Front-End Developer course</a> at <a href="https://beetrootacademy.com" target="_blank">Beetroot Academy</a>.</p>
             <p><span style="font-weight: bold;">💬 Feel Free to Ask Me Anything!</span></p>
             <p><span style="font-weight: bold;">📫 Contact Me:</span> <a href="mailto:zador746@gmail.com" class="email">zador746@gmail.com</a></p>
         </div>
@@ -42,76 +41,10 @@
 ### Badges
 
 
-<!--
-**Andrii-Zadorozhnii/Andrii-Zadorozhnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ### :fire: My Stats :
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrii-Zadorozhnii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrii-Zadorozhnii&theme=solarized_dark)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---Для подробной версии-->
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrii-Zadorozhnii)](https://github.com/anuraghazra/github-readme-stats)-->
-
-[![codewars](https://www.codewars.com/users/Andrii-Zadorozhnii/badges/large)](https://www.codewars.com/users/Andrii-Zadorozhnii)
-
-
-# My Python  Developer Projects
-## 1. # NoteApp
-
-[![NoteApp](https://ibb.co/PvkDvJY7)](https://zador746.pythonanywhere.com/)
-
----
-
-### Описание
-📝 **Ласкаво просимо до NoteApp**  
-NoteApp — це легкий та інтуїтивний вебдодаток для створення, редагування та збереження особистих нотаток.  
-Розроблений на базі **Django** з використанням **Bootstrap 5** для адаптивного і сучасного інтерфейсу.
-
----
-
-### Основные возможности
-
-- 🔐 **Реєстрація та автентифікація користувачів** / User authentication
-- 📝 **Створення, редагування та перегляд нотаток** / Manage notes easily
-- 📱 **Адаптивний дизайн для всіх пристроїв** / Responsive design
-- 🛡 **Захист даних через CSRF-токени** / CSRF protection
-- ✨ **Анімації для покращення UX через Animate.css** / Smooth UX animations
-
----
-
-### Технології
-
-- ⚙️ **Django 4.2**
-- 🎨 **HTML5, CSS3**
-- 🧩 **Bootstrap 5.3**
-- 🎞 **Animate.css**
-- 🗄 **SQLite3**
-
----
-
-### Ключові особливості
-
-- 🔒 **Розмежування доступу для користувачів** / Access control by authentication
-- 📂 **Прив’язка нотаток до профілю користувача** / Personal note storage
-- 🛠 **Використання Django шаблонів** / Dynamic rendering with templates
-- ✅ **Валідація форм та обробка помилок** / Form validation & error handling
-- 🧹 **Чиста та масштабована структура коду** / Clean, scalable codebase
-
----
-
-### Доступ до демо
-
-- **Логін:** `admin`
-- **Пароль:** `admin`
-
----
-
-> [Перейти до NoteApp на PythonAnywhere](https://zador746.pythonanywhere.com/)
+[![codewars](https://www.codewars.com/users/Andrii
 
 # Cargo Delivery Service
 
